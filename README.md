@@ -6,7 +6,19 @@
 align="center" 
 src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
  alt="fbhatti0801" /></a>
+  
+  <a href="" target="blank"><img 
+align="center" 
+src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"
+ alt="stackoverflow" /></a>
 
+  <a href=" https://www.hackerrank.com/fbhatti0801" target="blank"><img 
+align="center" 
+src="/https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"
+ alt="hackerrank" /></a>
+ 
+ 
+  
   
 </p>
 
