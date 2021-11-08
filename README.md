@@ -14,8 +14,7 @@ src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo
 
   <a href=" https://www.hackerrank.com/fbhatti0801" target="blank"><img 
 align="center" 
-src="/https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"
- alt="hackerrank" /></a>
+src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
  
  
   
