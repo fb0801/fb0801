@@ -12,12 +12,18 @@ align="center"
 src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"
  alt="stackoverflow" /></a>
 
-  <a href=" https://www.hackerrank.com/fbhatti0801" target="blank"><img 
+  <a href="https://www.hackerrank.com/fbhatti0801?hr_r=1" target="blank"><img 
 align="center" 
 src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" 
 alt="hackerrank"/></a>
  
- 
+   <a href="https://codepen.io/fb0801/pens/" target="blank"><img 
+align="center" 
+src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black" 
+alt="fb0801"/></a>
+  
+  
+
   
   
 </p>
