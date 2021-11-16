@@ -8,7 +8,7 @@ src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linke
  alt="fbhatti0801" /></a>
   
   <a href="https://stackoverflow.com/users/11350661/farhan?tab=profile" target="blank"><img 
-align="left" 
+align="right" 
 src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"
  alt="stackoverflow" /></a>
 
