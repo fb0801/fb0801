@@ -18,7 +18,7 @@ src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=Ha
 alt="hackerrank"/></a>
  
    <a href="https://codepen.io/fb0801/pens/" target="blank"><img 
-align="right" 
+align="center" 
 src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black" 
 alt="fb0801"/></a>
   
