@@ -13,7 +13,7 @@ src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo
  alt="stackoverflow" /></a>
 
   <a href="https://www.hackerrank.com/fbhatti0801?hr_r=1" target="blank"><img 
-align="right" 
+align="left" 
 src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" 
 alt="hackerrank"/></a>
  
